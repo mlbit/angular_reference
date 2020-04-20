@@ -7,6 +7,7 @@
   * Framework
     * Automated Test - use either one of the following
       * <b>Jest</b>
+        * URL : https://jestjs.io/
         * Installation
           * npm install <b>jest</b> @types/jest --only=dev
           * npm install jest-preset-angular
