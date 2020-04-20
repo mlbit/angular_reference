@@ -42,5 +42,7 @@
               ```
                 import 'jest-preset-angular';
               ```
+          * Remove jasmine 
+              * npm uninstall jasmine @types/jasmine 
       * Jasmin & Karma
 * Windows 10
